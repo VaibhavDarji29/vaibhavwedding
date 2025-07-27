@@ -194,8 +194,8 @@ button:focus{
 
 .pulse h3{
 	color: #ffffff;
-	font-family: 'Engagement', cursive;
-	font-size: 38px;
+	font-family: cursive;
+	font-size: 32px;
 }
 
 
@@ -406,10 +406,11 @@ button:focus{
 
 .lbox-details h1{
 	font-size: 54px;
-	font-family: 'Engagement', cursive;
+	font-family: cursive;
 	color: #543605;
 	position: relative;
 	z-index: 3;
+	border-top: 2px solid #543605;
 }
 
 .lbox-details h2{
@@ -552,7 +553,7 @@ button:focus{
 }
 .title-box h2{
 	font-size: 60px;
-	font-family: 'Engagement', cursive;
+	font-family: cursive;
 	color: #543605;
 }
 .title-box h2 span{
@@ -561,7 +562,7 @@ button:focus{
 }
 .about-main-info h2{
 	font-size: 40px;
-	font-family: 'Engagement', cursive;
+	font-family: cursive;
 	text-align: center;
     margin: 10px 0 0;
 }

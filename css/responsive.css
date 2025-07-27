@@ -97,7 +97,8 @@
 		display: none;
 	}
 	.title-box h2{
-		font-size: 38px;
+		font-size: 26px;
+        padding-bottom: 20px;
 	}
 	.about-main-info h2{
 		font-size: 24px;
@@ -201,8 +202,8 @@
 		font-size: 30px;
 	}
 	.lbox-details h1 {
-        font-size: 24px;
-        padding: 20px 0 0px 0;
+        font-size: 20px;
+        padding: 15px 0 15px 0;
     }
 	
 	.event-inner a,
