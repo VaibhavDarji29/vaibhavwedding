@@ -411,6 +411,7 @@ button:focus{
 	position: relative;
 	z-index: 3;
 	border-top: 2px solid #543605;
+	font-weight: bold;
 }
 
 .lbox-details h2{
@@ -555,6 +556,7 @@ button:focus{
 	font-size: 60px;
 	font-family: cursive;
 	color: #543605;
+	font-weight: bold;
 }
 .title-box h2 span{
 	color: #e3bd00;
@@ -572,6 +574,7 @@ button:focus{
 .about-main-info h2 span{
 	color: #543605;
 	text-decoration: underline;
+	font-weight: bold;
 }
 .about-main-info{
 	margin-bottom: 0;
