@@ -26,7 +26,10 @@ body {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.80857;
 }
-
+body:after {
+    content: url(../images/slider-01.JPEG) url(../images/slider-02.JPEG) url(../images/slider-03.JPEG) url(../images/time-01.JPEG) url(../images/time-02.JPEG) url(../images/time-03.JPEG) url(../images/time-05.JPEG) url(../images/mameru.jpg) url(../images/vargodo.jpg) url(../images/wedding_day.JPEG) url(../images/about-img-02.PNG) url(../images/about-img-01.JPEG) url(../images/family-01.JPG) url(../images/family-02.JPG) url(../images/family-03.JPG) url(../images/family-04.JPEG) url(../images/family-05.JPEG) url(../images/family-06.JPG) url(../images/family_01.JPG) url(../images/family_02.JPG) url(../images/family_03.JPG) url(../images/family_04.JPG) url(../images/family_05.JPG) url(../images/family_06.JPG) url(../images/family_07.JPG) url(../images/family_08.JPG) url(../images/family_09.JPG)
+    display: none;
+}
 
 a {
     color: #1f1f1f;
